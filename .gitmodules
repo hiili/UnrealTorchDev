@@ -1,0 +1,3 @@
+[submodule "Plugins/UnrealTorch"]
+	path = Plugins/UnrealTorch
+	url = https://gitlab.com/hiili/UnrealTorch.git
